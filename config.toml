@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://gameblockchain.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Global Game Market BlockChain Site"
+theme = "ananke"
